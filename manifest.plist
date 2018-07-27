@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.19/iphone/game.ipa</string>
-				</dict>
+					<string>
+				</dict>https://github.com/370119386/iOS/iphone/game.ipa</string>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://192.168.1.19/iphone/57.png</string>
+					<string>https://github.com/370119386/iOS/iphone/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.1.19/iphone/512.png</string>
+					<string>https://github.com/370119386/iOS/iphone/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
